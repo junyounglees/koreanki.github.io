@@ -1,14 +1,14 @@
 {
   "name": "코리안키 블로그",
   "short_name": "코리안키 블로그",
-  "start_url": "/koreanki.github.io/",
-  "scope": "/koreanki.github.io/",
+  "start_url": "/",
+  "scope": "/",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",
   "icons": [
     {
-      "src": "/koreanki.github.io/favicon.svg",
+      "src": "/favicon.svg",
       "sizes": "512x512"
     }
   ]
